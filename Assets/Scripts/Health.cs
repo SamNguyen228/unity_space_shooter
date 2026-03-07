@@ -7,7 +7,7 @@ public class Health : MonoBehaviour
     public GameObject explosionPrefab;
     public int defaultHealthPoint;
     private int healthPoint;
-
+    public System.Action onDead;
     public void OTriggerEnter2D(Collider2D collision) => Die();
 
     private void Start()
@@ -20,6 +20,7 @@ public class Health : MonoBehaviour
         var explosion = Instantiate(explosionPrefab, transform.position, transform.rotation);
         Destroy(gameObject);
         Destroy(explosion, 1);
+        onDead?.Invoke();
     }
 
     public void TakeDamage(int damage)
