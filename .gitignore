@@ -55,7 +55,6 @@ sysinfo.txt
 # ===============================
 # Build artifacts
 # ===============================
-*.apk
 *.aab
 *.unitypackage
 
@@ -63,4 +62,62 @@ sysinfo.txt
 # Crashlytics generated files
 # ===============================
 crashlytics-build.properties
-##########
+
+# ===============================
+# Unity cache & generated
+# ===============================
+*.pidb.meta
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Crash / logs
+*.log
+*.stacktrace
+
+# Unity auto-generated
+ExportedObj/
+.consulo/
+*.unityproj
+
+# IL2CPP build
+il2cppOutput/
+
+# Android build
+.gradle/
+local.properties
+
+# iOS build
+DerivedData/
+*.xcworkspace
+
+# Windows build
+*.exe
+*.dll
+
+# Mac build
+*.app
+
+# Addressables build (full)
+ServerData/
+
+# Temporary build files
+*.tmp
+*.temp
+
+# Rider
+.idea/
+
+# VSCode history
+.history/
+
+# Backup files
+*.bak
+*.backup
+
+# Debug folder (bạn đang bị dính)
+*_BurstDebugInformation_DoNotShip/
+
+# Unity test results
+TestResults/
