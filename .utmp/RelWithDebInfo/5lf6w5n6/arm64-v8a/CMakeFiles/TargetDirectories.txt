@@ -1,0 +1,5 @@
+E:/CMCUNI/HK8/UnityGameDev/Unity2D/Space_Shooter/.utmp/RelWithDebInfo/5lf6w5n6/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/CMCUNI/HK8/UnityGameDev/Unity2D/Space_Shooter/.utmp/RelWithDebInfo/5lf6w5n6/arm64-v8a/CMakeFiles/rebuild_cache.dir
+E:/CMCUNI/HK8/UnityGameDev/Unity2D/Space_Shooter/.utmp/RelWithDebInfo/5lf6w5n6/arm64-v8a/GameActivity/CMakeFiles/game.dir
+E:/CMCUNI/HK8/UnityGameDev/Unity2D/Space_Shooter/.utmp/RelWithDebInfo/5lf6w5n6/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+E:/CMCUNI/HK8/UnityGameDev/Unity2D/Space_Shooter/.utmp/RelWithDebInfo/5lf6w5n6/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
